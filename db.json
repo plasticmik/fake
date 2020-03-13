@@ -8,12 +8,12 @@
       "code": "IT049E12312312",
       "greenOption": true,
       "offerName": "Penso in Verde Famiglia Web",
-      "delivery": [
+      "delivery": {
         "address": "via delle Canovine 46",
         "postalCode": "24126",
         "city": "Bergamo",
         "province": "BG"
-      ]
+      }
     }
   ],
   "bills": {
